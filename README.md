@@ -4,13 +4,10 @@
 🏎️ Firmware Engineer @ Waterloo Formula Electric  
 🤖 Interested in AI, robotics, and software engineering.
 
-I enjoy building things, experimenting with new technologies, and exploring the intersection of software and hardware.
-
 ### 🚀 Currently Working On
 - Hardware-in-the-Loop vehicle simulation
 - Personal software projects
-- Exploring AI and robotics
-
+- Pokédex API Website
 ### 🛠️ Tech Stack
 **Languages:** Python, JavaScript, HTML/CSS, C++
 
@@ -20,6 +17,10 @@ I enjoy building things, experimenting with new technologies, and exploring the 
 - 💼 [LinkedIn](https://www.linkedin.com/in/songyang-tang/)
 - 📧 [Email](mailto:jason.tang3@uwaterloo.ca)
 
----
+### Fun Facts
+- I have a cat
+- Movies > TV Shows
+- I'm insane at Minecraft
 
+---
 *Always believe that something wonderful is about to happen.* ✨
