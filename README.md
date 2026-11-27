@@ -12,9 +12,9 @@ I enjoy building things, experimenting with new technologies, and exploring the 
 - Exploring AI and robotics
 
 ### 🛠️ Tech Stack
-**Languages:** Python, JavaScript, HTML/CSS, Racket
+**Languages:** Python, JavaScript, HTML/CSS, C++
 
-**Tools:** Git, GitHub, VS Code, Figma, PyQt5, Tkinter
+**Tools:** Git, VS Code, Figma, PyQt5, Obsidian, Docker Desktop
 
 ### 📫 Get in Touch
 - 💼 [LinkedIn](https://www.linkedin.com/in/songyang-tang/)
