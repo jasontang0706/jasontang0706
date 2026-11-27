@@ -1,6 +1,6 @@
 ## Hey, I'm Jason! 👋
 
-💻 CS student @ University of Waterloo  
+💻 CS/BBA @ University of Waterloo  
 🏎️ Firmware Engineer @ Waterloo Formula Electric  
 🤖 Interested in AI, robotics, and software engineering.
 
