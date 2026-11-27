@@ -1,6 +1,6 @@
 # Hey, I'm Jason! 👋
 
-💻 CS student @ University of Waterloo
+💻 CS student @ University of Waterloo  
 🏎️ Firmware Engineer @ Waterloo Formula Electric  
 🤖 Interested in AI, robotics, and software engineering.
 
@@ -17,8 +17,8 @@ I enjoy building things, experimenting with new technologies, and exploring the 
 **Tools:** Git, GitHub, VS Code, Figma, PyQt5, Tkinter
 
 ### 📫 Get in Touch
-- 💼 [LinkedIn](YOUR_LINKEDIN_URL)
-- 📧 YOUR_EMAIL
+- 💼 [LinkedIn](https://www.linkedin.com/in/songyang-tang/)
+- 📧 [Email](mailto:jason.tang3@uwaterloo.ca)
 
 ---
 
