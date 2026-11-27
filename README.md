@@ -6,7 +6,6 @@
 
 #### 🚀 Currently Working On
 - Hardware-in-the-Loop vehicle simulation
-- Personal software projects
 - Pokédex API Website
 #### 🛠️ Tech Stack
 **Languages:** Python, JavaScript, HTML/CSS, C++
