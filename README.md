@@ -8,7 +8,7 @@
 - Pokédex API Website
 - Latergarden
 #### 🛠️ Tech Stack
-**Languages:** Python, JavaScript, HTML/CSS, C++
+**Languages:** Python, JavaScript, HTML/CSS, C++  
 **Tools:** Git, VS Code, Figma, PyQt5, Obsidian, Docker Desktop
 
 #### Fun Facts
